@@ -10,4 +10,5 @@ bin*
 lib*
 *.lo
 *.o
+build/
 result/
